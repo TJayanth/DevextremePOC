@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhAjc5uScNYeq1kmcC08MZFUd0d+wigFtfBxrKjLdY1D9Ajw3vAGhHd4KbAzL2dWS1IV/dxRByUD7dwb5o1rrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DevextremePOC\\Clone\\POC.DTO\\POC.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

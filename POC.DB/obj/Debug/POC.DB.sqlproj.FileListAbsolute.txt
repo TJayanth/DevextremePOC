@@ -1,0 +1,9 @@
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\bin\Debug\POC.DB.dacpac
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\bin\Debug\POC.DB.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\bin\Debug\POC.DB.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\obj\Debug\POC.DB.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\obj\Debug\POC.DB.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\obj\Debug\Model.xml
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\obj\Debug\refactor.xml
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\obj\Debug\postdeploy.sql
+D:\Projects\DevextremePOC\POCSolutions\POC.DB\obj\Debug\predeploy.sql

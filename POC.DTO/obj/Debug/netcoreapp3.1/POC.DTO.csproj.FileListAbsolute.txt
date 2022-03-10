@@ -1,0 +1,10 @@
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\netcoreapp3.1\POC.DTO.deps.json
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\netcoreapp3.1\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\netcoreapp3.1\POC.DTO.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.AssemblyInfoInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.AssemblyInfo.cs
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\netcoreapp3.1\POC.DTO.csproj.AssemblyReference.cache

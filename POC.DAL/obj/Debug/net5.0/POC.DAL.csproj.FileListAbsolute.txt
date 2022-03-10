@@ -1,0 +1,15 @@
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\bin\Debug\net5.0\POC.DAL.deps.json
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\bin\Debug\net5.0\POC.DAL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\bin\Debug\net5.0\ref\POC.DAL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\bin\Debug\net5.0\POC.DAL.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\bin\Debug\net5.0\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\bin\Debug\net5.0\POC.DTO.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.csproj.AssemblyReference.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.AssemblyInfoInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.AssemblyInfo.cs
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.csproj.CopyComplete
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\ref\POC.DAL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DAL\obj\Debug\net5.0\POC.DAL.pdb

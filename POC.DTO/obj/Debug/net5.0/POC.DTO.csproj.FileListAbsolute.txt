@@ -1,0 +1,12 @@
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\net5.0\POC.DTO.deps.json
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\net5.0\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\net5.0\ref\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\bin\Debug\net5.0\POC.DTO.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.AssemblyInfoInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.AssemblyInfo.cs
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\ref\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.DTO\obj\Debug\net5.0\POC.DTO.csproj.AssemblyReference.cache

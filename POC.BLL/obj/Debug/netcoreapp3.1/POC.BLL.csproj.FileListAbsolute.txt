@@ -1,0 +1,15 @@
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.BLL.deps.json
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.BLL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.BLL.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.DAL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.DTO.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.DAL.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\bin\Debug\netcoreapp3.1\POC.DTO.pdb
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.csproj.AssemblyReference.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.AssemblyInfoInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.AssemblyInfo.cs
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.csproj.CopyComplete
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.dll
+D:\Projects\DevextremePOC\POCSolutions\POC.BLL\obj\Debug\netcoreapp3.1\POC.BLL.pdb

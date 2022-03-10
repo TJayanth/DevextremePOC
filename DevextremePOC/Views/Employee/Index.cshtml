@@ -1,0 +1,72 @@
+﻿@model IEnumerable<POC.DTO.EmployeeDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>DevExtreme POC GRID</h1>
+
+<p>
+
+</p>
+<div>
+    @(Html.DevExtreme().DataGrid<POC.DTO.EmployeeDTO>()
+    .ID("gridid")
+    .DataSource(d => d.Mvc()
+    .Controller("Employee")
+        .LoadAction("GetEmployeeList")
+        .UpdateAction("UpdateEmployee")
+        .InsertAction("CreateEmployee")
+        .DeleteAction("DeleteEmployee")
+        .Key("id")
+        )
+    .Columns(c =>
+    {
+        c.AddFor(m=>m.Id).DataField("id");
+        c.AddFor(m => m.Name).DataField("name");
+        c.AddFor(m => m.FathersName).DataField("fathersName");
+        c.AddFor(m => m.MothersName).DataField("mothersName");
+        c.AddFor(m => m.IsActive).DataField("isActive").AllowEditing(false).AllowGrouping(false).AllowHiding(false).Caption("Active").CellTemplate(@<text>
+                                                                                                                                        <div>
+                                                                                                                                                <% if(value) { %>
+                                                                                                                                                <span class="badge badge-success">Active</span>
+                                                                                                                                                <% }else{ %>
+                                                                                                                                                <span class="badge badge-danger">InActive</span>
+                                                                                                                                                <% }%>
+                                                                                                                                            </div>
+                                                                                                                                        </text>);
+    })
+        .Paging(paging => paging.PageSize(5))
+                                    .Pager(pager =>
+                                    {
+                                        pager.ShowPageSizeSelector(true);
+                                        pager.AllowedPageSizes(new List<int>
+                                                { 5, 10, 15, 20 });
+                                        pager.ShowInfo(true);
+                                    })
+        .AllowColumnReordering(true)
+        .AllowColumnResizing(true)
+        .ColumnAutoWidth(true)
+        .ColumnChooser(x=>x.Enabled(true))
+        .CellHintEnabled(true)
+        .FilterBuilder(x=>x.Visible(true))
+        .Selection(x=>x.Mode(SelectionMode.Multiple).AllowSelectAll(true))
+        .FilterRow(f => f.Visible(true))
+        .HeaderFilter(f => f.Visible(true))
+        .GroupPanel(p => p.Visible(true))
+        .ShowBorders(true)
+        .ShowColumnLines(true)
+        .ShowRowLines(true)
+        .RowAlternationEnabled(true)
+        .SearchPanel(x=>x.Visible(true))
+        .Height(400)
+
+        .Editing(e => e.AllowAdding(true).AllowDeleting(true).AllowUpdating(true).Mode(GridEditMode.Row))
+        .Grouping(g => g.AutoExpandAll(false))
+        .TwoWayBindingEnabled(true)
+        .WordWrapEnabled(true)
+        .Export(x=>x.Enabled(true).AllowExportSelectedData(true))
+
+    )
+</div>
+
